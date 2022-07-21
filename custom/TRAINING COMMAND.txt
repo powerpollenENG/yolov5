@@ -1,0 +1,8 @@
+ To Train:
+
+ python train.py --weights ' ' --cfg 'yolov5s.yaml' --img 720 --batch-size 3 --data 'custom/customdata.yaml' --epochs 300 --workers 4
+
+
+ After Interrupt to Resume:
+
+ python train.py --resume

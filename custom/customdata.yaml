@@ -1,0 +1,4 @@
+train: C:\Users\Admin\Desktop\trainingdata_23JUN2022\train
+val: C:\Users\Admin\Desktop\trainingdata_23JUN2022\valid
+nc: 1
+names: ['Silk']
