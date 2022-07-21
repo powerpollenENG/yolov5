@@ -1,6 +1,6 @@
  To Train:
 
- python train.py --weights ' ' --cfg 'yolov5s.yaml' --img 720 --batch-size 3 --data 'custom/customdata.yaml' --epochs 300 --workers 4
+ python train.py --weights ' ' --cfg 'yolov5l.yaml' --img 720 --batch-size 3 --data 'custom/customdata.yaml' --epochs 300 --workers 4 --hyp data\hyps\hyp.scratch-high.yaml
 
 
  After Interrupt to Resume:
